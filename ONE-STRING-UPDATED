@@ -1,1 +1,0 @@
-javascript:fetch('https://raw.githubusercontent.com/RealUnicorn/ready-skript/main/SCRIPT').then(r=>r.text()).then((d)=>eval(d))
